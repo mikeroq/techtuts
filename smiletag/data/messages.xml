@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<smiletag_message>
+    <row>
+        <name><![CDATA[mikeroq]]></name>
+        <url><![CDATA[<a href="http://mikeroq.com" target="_blank" rel="external nofollow">mikeroq</a>]]></url>
+        <message><![CDATA[hello]]></message>
+        <datetime>1135988282</datetime>
+        <ipaddress>127.0.0.1</ipaddress>
+    </row>
+    <row>
+        <name><![CDATA[mikeroq]]></name>
+        <url><![CDATA[<a href="http://mikeroq.com" target="_blank" rel="external nofollow">mikeroq</a>]]></url>
+        <message><![CDATA[test]]></message>
+        <datetime>1135988277</datetime>
+        <ipaddress>127.0.0.1</ipaddress>
+    </row>
+</smiletag_message>
